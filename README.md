@@ -1,2 +1,2 @@
-# angular-music-player
+# music-player
 Music player using Angular
